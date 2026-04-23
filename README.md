@@ -33,6 +33,8 @@ Hello! I am a beginner data analyst skilled in Python, Pandas, and Excel automat
 ## Skills
 - Python
 - Pandas
+- Microsoft Excel
 - Data Cleaning
-- Excel Automation
 - Data Visualization
+- CSV Processing
+- Excel Automation
