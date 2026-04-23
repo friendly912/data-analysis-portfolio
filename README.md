@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-Hello! I am a beginner data analyst skilled in Python, Pandas, and Excel automation.
+Hello! I am a data analyst skilled in Python, Pandas, and Excel automation.
 
 ## Projects
 
@@ -34,8 +34,7 @@ Hello! I am a beginner data analyst skilled in Python, Pandas, and Excel automat
 - Automated Excel summaries
 - Created pivot tables
 
-✅ Objective
-Analyze retail sales data to identify key sales trends and top-performing categories.
+✅ 7. Analyze retail sales data to identify key sales trends and top-performing categories.
 
 ### Tools Used
 - Python
@@ -54,6 +53,26 @@ Sample Superstore Dataset (Retail sales data)
 ### Output Example
 <img width="640" height="480" alt="07 category_sale_chart" src="https://github.com/user-attachments/assets/5475fe16-f85f-45fd-8814-b845a1409219" />
 <img width="640" height="480" alt="07 region_sale_chart" src="https://github.com/user-attachments/assets/f5a3f0a2-19be-41f9-98f7-f82ba647e450" />
+
+✅ 8. Retail Sales Dashboard
+
+### Objective
+Create a visual dashboard to analyze sales performance across categories, regions, and time.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+### Key Results
+- Built multi-chart dashboard
+- Visualized monthly sales trends
+- Identified top-performing products
+- Created summary dashboard image
+
+### Dashboard Output
+<img width="1200" height="800" alt="08 sales_dashboard" src="https://github.com/user-attachments/assets/27625e8e-f182-411c-bcfd-48d4a22ac8d8" />
+
 
 🎯 Skills
 - Python
