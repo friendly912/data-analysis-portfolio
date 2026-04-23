@@ -1,0 +1,13 @@
+Interactive Sales Dashboard Report
+
+Project Objective:
+Build an interactive dashboard to analyze retail sales performance.
+
+Key Features:
+- Sales by Category visualization
+- Monthly sales trend analysis
+- Region comparison
+- Interactive hover details
+
+Business Value:
+This dashboard helps businesses identify strong-performing regions, top-selling categories, and monthly sales patterns.
