@@ -73,6 +73,29 @@ Create a visual dashboard to analyze sales performance across categories, region
 ### Dashboard Output
 <img width="1200" height="800" alt="08 sales_dashboard" src="https://github.com/user-attachments/assets/27625e8e-f182-411c-bcfd-48d4a22ac8d8" />
 
+✅ 9. Project — Professional Sales Dashboard
+
+### Objective
+Build a professional dashboard to monitor sales performance across categories, regions, and time.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+### Dashboard Features
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+- Top 5 Products
+
+### Business Insights
+- Identified top-performing regions
+- Detected monthly sales trends
+- Highlighted key revenue products
+
+### Dashboard Output
+<img width="1400" height="1000" alt="09 professional_sales_dashboard" src="https://github.com/user-attachments/assets/0ea8ac60-ffe3-4458-abee-96f492b166ff" />
 
 🎯 Skills
 - Python
