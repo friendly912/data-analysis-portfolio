@@ -1,0 +1,11 @@
+Customer,City,Purchase
+Alice,New York,250
+Bob,Los Angeles,400
+Charlie,Chicago,150
+Alice,New York,300
+Bob,Los Angeles,200
+David,Houston,500
+Charlie,Chicago,250
+Alice,New York,200
+David,Houston,300
+Bob,Los Angeles,150
